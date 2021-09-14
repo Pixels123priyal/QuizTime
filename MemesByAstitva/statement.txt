@@ -1,1 +1,2 @@
-TASK ONE IS DONE.
+TASK ONE IS DONE.Also added an this sentence using hash log.
+
