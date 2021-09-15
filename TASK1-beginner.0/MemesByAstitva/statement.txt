@@ -1,2 +1,2 @@
-TASK ONE IS DONE.Also added an this sentence using hash log.lol corrected commit message also
+TASK ONE IS DONE.Also added an this sentence using hash log.lol corrected commit message also.
 
