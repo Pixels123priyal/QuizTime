@@ -10,11 +10,12 @@ h1{
     color:rgb(32, 165, 32);
     letter-spacing: 2vw;
     font-family: 'Lora',serif;
+    font-weight:bold;
 }
 h2{
     color:rgb(32, 165, 32);
     font-family: 'Lora',serif;
-
+    font-weight:bold;
 }
 .Message{
     margin:auto;
