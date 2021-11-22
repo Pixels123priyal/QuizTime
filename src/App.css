@@ -1,1 +1,24 @@
 @import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+.Main-Heading{
+   display:flex;
+   align-items: center;
+   justify-content: center;
+   margin:auto;
+   padding:2em; 
+}
+h1{
+    color:rgb(32, 165, 32);
+    letter-spacing: 2vw;
+    font-family: 'Lora',serif;
+}
+h2{
+    color:rgb(32, 165, 32);
+    font-family: 'Lora',serif;
+
+}
+.Message{
+    margin:auto;
+    display:flex;
+    justify-content: center;
+    align-items:center;
+}
