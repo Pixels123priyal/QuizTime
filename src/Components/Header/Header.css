@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Lora&display=swap');
+*
+{
+    margin:0;
+    padding:0
+}
+h1{
+    font-family:'Lora',serif;
+    color:white;
+    margin:auto;
+}
+h1:hover{
+    cursor:pointer;
+}
+.header{
+    background:rgb(148,0,211);
+    width:100vw;
+    height:8vh;
+    text-align: center;
+}
