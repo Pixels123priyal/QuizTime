@@ -1,0 +1,15 @@
+
+.App{
+  align-items: center;
+  margin:5px;
+  padding:0.01px 1px 1px 5px;
+  height:13cm;
+  }
+body{
+  background:rgb(16, 30, 228);
+ 
+}
+#root{
+ height: 100%;
+
+}

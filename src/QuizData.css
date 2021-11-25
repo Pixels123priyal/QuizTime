@@ -1,0 +1,15 @@
+.QuizSetting{
+    display:flex;
+    margin:auto;
+    align-items: center;
+    justify-content: center;
+    padding:3em;
+    height: 20cm;
+    width:15cm;
+    background:white;
+    
+}
+p{
+    color:black;
+    font-family:'Lora',serif;
+}
