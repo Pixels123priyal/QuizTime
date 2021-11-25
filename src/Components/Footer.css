@@ -1,0 +1,10 @@
+.temporary{
+    font-family:'Lora',serif;
+    font-size:1.7em;
+}
+.contactdetails{
+    display:flex;
+    margin:auto;
+    align-items: center;
+    justify-content: center;
+}
