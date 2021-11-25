@@ -1,8 +1,15 @@
-*{
-  margin:0;
-  padding:0;
-  box-sizing:border-box;
-}
+
+.App{
+  align-items: center;
+  margin:5px;
+  padding:0.01px 1px 1px 5px;
+  height:13cm;
+  }
 body{
-  background:#333;
+  background:rgb(16, 30, 228);
+ 
+}
+#root{
+ height: 100%;
+
 }
