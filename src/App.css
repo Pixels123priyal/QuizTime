@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+.Main-Heading{
+   display:flex;
+   align-items: center;
+   justify-content: center;
+   margin:auto;
+   padding:0.01px; 
+}
+h1{
+    color:white;
+    letter-spacing: 2vw;
+    font-family: 'Lora',serif;
+    font-weight:bold;
+    animation-name:totheheading;
+    animation-iteration-count: infinite;
+    animation-duration:4s;
+}
+h2{
+    color:white;
+    font-family: 'Lora',serif;
+    font-weight:bold;
+}
+.Message{
+    margin:5px;
+    display:flex;
+    justify-content: center;
+    align-items:center;
+}
+.temporary{
+    color: black ;
+    font-size: bold;
+   
+}
