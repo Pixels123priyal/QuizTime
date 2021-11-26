@@ -2,20 +2,20 @@ const particlesConfig=
 {
   particles: {
     number: {
-      value: 150,
+      value: 120,
       density: {
         enable: true,
         value_area: 750
       }
     },
     color: {
-      value: "#00FA9A"
+      value:  ['#9400D3','#4B0082','#0000FF','#00FF00','#FFFF00','#FF7F00','#FF0000']
     },
     shape: {
-      type: "triangle",
+      type: "circle",
       stroke: {
         width: 0,
-        color: "#000000"
+        
       },
       polygon: {
         nb_sides: 10

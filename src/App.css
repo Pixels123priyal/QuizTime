@@ -7,17 +7,18 @@
    padding:0.01px; 
 }
 h1{
-    color:rgb(216, 65, 5);
+    color:white;
     letter-spacing: 2vw;
     font-family: 'Lora',serif;
+    font-weight:bold;
+    animation-name:totheheading;
+    animation-iteration-count: infinite;
+    animation-duration:4s;
 }
 h2{
-    color:rgb(83, 32, 165);
+    color:white;
     font-family: 'Lora',serif;
-    padding: 5px 25px 5px 5px;
-    margin-block-start: 0.23em;
-    margin-block-end: 0.23em;
-
+    font-weight:bold;
 }
 .Message{
     margin:5px;
@@ -26,6 +27,7 @@ h2{
     align-items:center;
 }
 .temporary{
-    color: red;
+    color: black ;
+    font-size: bold;
    
 }
