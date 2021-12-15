@@ -21,4 +21,7 @@ Added the particle theme .
 We have completed the login page .
 ![Test Image](https://github.com/Pixels123priyal/QuizTime/blob/main/QuizTime_ss.png)
 <br/>
-![Test Image](https://github.com/Pixels123priyal/QuizTime/blob/main/QuizTime_ss_2.png)
+![Test Image](https://github.com/Pixels123priyal/QuizTime/blob/main/QizTime_ss_2.png) <br/>
+
+## Features left to be implemented:<br/>
+We are left with adding the questions and some relative statistics and the interface of the result of the quiz.
