@@ -19,5 +19,6 @@ Jatin <br/>
 Created the Login page with the sign in ,forget password ,asking for account status,etc
 Added the particle theme .
 We have completed the login page .
-![Test Image 1](QuizTime_ss.png)
-![Test Image 1](QuizTime_ss_2.png)
+![Test Image](https://github.com/Pixels123priyal/QuizTime/blob/main/QuizTime_ss.png)
+<br/>
+![Test Image](https://github.com/Pixels123priyal/QuizTime/blob/main/QuizTime_ss_2.png)
