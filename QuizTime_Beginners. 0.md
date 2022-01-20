@@ -54,13 +54,13 @@ Tools and technologies that you learnt and used in the project.
 ## Future scope
 > We need to work on the backend part as to store the details and score of the all participants and give them an overall progress statistics.
 ## Screenshots
-![ss1](https://drive.google.com/file/d/1z3kJkvado07Ob1RnEzyiZFXP39dAIK2T/view?usp=sharing)
+![ss1](ss1.png)
 <br/>
-![ss2](https://drive.google.com/file/d/1VntSaM30Mb44tRg9XuCSCDSYEkbLONZl/view?usp=sharing)
+![ss2](ss2.png)
 <br/>
-![ss3](https://drive.google.com/file/d/1mKpLl7eLDzL_RhXduCJlXzVJvbr6uZDQ/view?usp=sharing)
+![ss3](ss3.png)
 <br/>
-![ss4](https://drive.google.com/file/d/1NcfH1kMcXsmBJ60kcXyVORjJQcKL61NM/view?usp=sharing)
+![ss4](ss4.png)
 <br/>
-![ss5](https://drive.google.com/file/d/14niixlHygZmqZOyiRiSY3Noy11GRTIIh/view?usp=sharing)
+![ss5](ss5.png)
 <br/>
