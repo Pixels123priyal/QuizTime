@@ -35,7 +35,7 @@ This quiz website can be used for the evaluation of students with the time limit
 
 * GitHub repo link: [Link to repository](https://github.com/Pixels123priyal/QuizTime.git)
 * Drive link: [Drive link here](https://drive.google.com/drive/folders/1goCLRT4TwAn7DvZJqpD8Uka0tzss3LfH?usp=sharing)
-* Website link: [Website link here](www.google.com)
+* Website link: [Website link here](https://pixels123priyal.github.io/QuizTime/)
 
 ## Technology stack
 
